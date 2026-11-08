@@ -1,10 +1,10 @@
-# Hi, I'm James Godswill 👋
+# Technology, Research & Digital Growth 👋
 
 **IoT & Environmental Technology · Technical Research & Documentation · Data Workflows · Digital Growth**
 
-I work across technology, research, documentation and digital operations. My interests include environmental monitoring, IoT concepts, data organisation, technical communication, SEO and practical applications of AI and automation.
+Exploring practical ideas at the intersection of technology, research, documentation and digital operations. Areas of interest include environmental monitoring, IoT concepts, data organisation, technical communication, SEO and useful applications of AI and automation.
 
-I enjoy researching technical problems, developing useful project ideas, documenting processes and turning information into clear, actionable resources.
+The focus is on researching technical problems, developing useful project ideas, documenting processes and turning information into clear, actionable resources.
 
 ## Areas of focus
 
@@ -36,13 +36,13 @@ An illustrative dataset for exploring building-environment data. Values are synt
 
 Python · Docker · Git · GitHub · Technical research · Documentation · Data workflows · SEO · Digital content operations
 
-## Find me elsewhere
+## Connect
 
+- [Wellfound](https://wellfound.com/u/james-godswill)
 - [Medium](https://semajlliwsdog.medium.com/)
 - [Kaggle](https://www.kaggle.com/jamesgodswill)
-- [Wellfound](https://wellfound.com/u/james-godswill)
 - [Docker Hub](https://hub.docker.com/u/semajlliwsdog)
 
 ---
 
-*I value continuous learning, practical experimentation, clear documentation and work that solves meaningful problems.*
+*Curiosity, practical experimentation, clear documentation and meaningful problem-solving.*
